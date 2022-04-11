@@ -1,0 +1,53 @@
+/* MOBILE CSS - ADD CSS TO AFFECT ALL MOBILE PAGES */
+*.dmMobileBody *#dm *#dmSlideRightNavLeft {
+ background-color:rgb(51,51,51);
+ }
+
+null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null {
+}
+
+*#dm div.dmContent h2,
+*#dm div.dmFooter h2,
+*#dm div.dm-title h2,
+*#dm div.dmContent h2 {
+ font-size:28px;
+ }
+
+*#dm div.dmContent h1,
+*#dm div.dmFooter h1,
+*#dm div.dm-title h1,
+*#dm div.dmContent h1 {
+ font-size:34px;
+ }
+
+*#dm div.dmInner,
+*#dm div.dmInner *.dmRespCol,
+*#dm *.ecwid *,
+*#dm *.dmform *.dmforminput label,
+*.dmPrettyList *.listText,
+*.dmPrettyList *.itemName,
+*#dm *.dmRestaurantMenu *.menuItemBox,
+*.dmRestaurantMenu *.menuItemName,
+*.dmRestaurantMenu *.menuItemDesc,
+*.dmRestaurantMenu *.menuItemPrice,
+*.dmPhotoGallery p.caption-text,
+*.dmGeoLocation a span.dmGeoMLocItemTitle,
+*.dmGeoLocation a span.dmGeoMLocItemDetails {
+ font-size:17px;
+ }
+
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
