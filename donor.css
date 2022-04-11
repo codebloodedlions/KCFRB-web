@@ -1,0 +1,7 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody div.u_1132091018{
+border-color:rgba(221,221,221,1) !important;
+border-width:2px !important;
+border-style:solid !important}
+*.dmFooterContainer{
+display:none !important}
