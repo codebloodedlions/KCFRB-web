@@ -1,0 +1,37 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody a.span.textonly
+{
+	color:rgb(255, 255, 255) !important;
+}
+*#dm *.dmBody a.span.textonly
+{
+	color:rgb(255, 255, 255) !important;
+}
+*#dm *.dmBody div.dmform-error
+{
+	font-style:normal !important;
+}
+*#dm *.dmBody div.dmforminput textarea
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.dmforminput *.fileUploadLink
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.checkboxwrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.radiowrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.u_1083860406
+{
+	line-height:initial !important;
+}
+*#dm *.dmBody div.u_1243667655
+{
+	background-color:rgba(0, 0, 0, 0) !important;
+}
