@@ -1,0 +1,58 @@
+/* TABLET CSS - ADD CSS TO AFFECT ALL TABLET PAGES */
+/*SITE_THEME_BEGIN*/*#dm div.dmContent h1
+{
+	font-size:42px;
+}
+*#dm div.dmFooter h1
+{
+	font-size:42px;
+}
+*#dm div.dm-title h1
+{
+	font-size:42px;
+}
+*#dm div.dmContent h1 *
+{
+	font-size:42px;
+}
+*#dm div.dmFooter h1 *
+{
+	font-size:42px;
+}
+*#dm div.dm-title h1 *
+{
+	font-size:42px;
+}
+*#dm DIV.dmOuter DIV.dmInner, *#dm DIV.dmOuter DIV#dmSlideRightNavRight
+{
+	background-color:rgba(255, 255, 255, 1);
+}
+
+/* ==================================================================== */
+/*                             Inner                                    */
+/* ==================================================================== */
+*#dm div.dmInner, *#dm div.dmInner *.dmRespCol, *#dm *.ecwid *, *#dm *.dmform *.dmforminput label, *.dmPrettyList *.listText, *.dmPrettyList *.itemName, *#dm *.dmRestaurantMenu *.menuItemBox
+{
+	font-size:17px;
+}
+*#dm div.dmContent h1, *#dm div.dmFooter h1, *#dm div.dm-title h1, *#dm div.dmContent h1 *
+{
+	font-size:40px;
+}
+*#dm div.dmContent h2, *#dm div.dmFooter h2, *#dm div.dm-title h2, *#dm div.dmContent h2 *
+{
+	font-size:26px;
+}
+*#dm div.dmContent h3, *#dm div.dmFooter h3, *#dm div.dm-title h3, *#dm div.dmContent h3 *
+{
+	font-size:26px;
+}
+*#dm *[data-buttonstyle] div.dmInner *#site_content *.dmWidget span.text, *#dm *[data-buttonstyle] div.dmInner *#site_content *.dmformsubmit input, *#dm div.dmOuter div.dmInner *.ecwid *.ecwid-btn.ecwid-btn--primary span, *#dmRoot *#dm div.dmOuter div.dmInner *.ecwid *.ecwid-btn.ecwid-btn--primary
+{
+	font-size:17px;
+}
+*#dm div.dmContent h2, *#dm div.dmFooter h2, *#dm div.dm-title h2, *#dm div.dmContent h2
+{
+	font-size:32px;
+}
+/*SITE_THEME_END*/
